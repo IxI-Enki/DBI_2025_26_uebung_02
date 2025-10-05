@@ -42,3 +42,10 @@ Kurzbeschreibung: In dieser Übung modellieren Sie ein Star-Schema für eine Fir
 - `sql/` Optional DDL/Abfragen
 
 Viel Erfolg!
+
+---
+
+## Abgabe
+
+- [PDF Star Schema Company](RITT_StarSchema_Company.pdf)
+- [SQL Assignment](RITT_assignment_run.sql)
