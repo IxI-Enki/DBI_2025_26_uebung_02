@@ -97,4 +97,3 @@ CREATE TABLE DIM_STATUS (
 -- IDENTITY used for DIM_STATUS (no sequence)
 
 COMMIT; 
-/ 

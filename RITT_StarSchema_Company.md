@@ -28,7 +28,7 @@ Diese Abgabe transformiert das OLTP-Schema der OT-Datenbank zu einem Star-Schema
 
 ## FACT_SALES
 
-![Fact Sales](angabe/img/fact_sales.png)
+  ![Fact Sales](angabe/img/fact_sales.png)
 
 ---
 
